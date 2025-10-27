@@ -79,4 +79,4 @@ To successfully complete the certification, we should have:
 * Identify and discard the "distractors"
 * Start with eliminating obvious options that don't apply
 * Don't get struck at one place, mark for review
-* Always answer, words case scenario, make a guess
+* Always answer, worst case scenario make a guess
